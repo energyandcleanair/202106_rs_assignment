@@ -4,7 +4,7 @@ Technical assignment for the geospatial data scientist position at [CREA](https:
 
 # Background
 
-In this assignment, we are trying to better understand NO2 emissions from Paris, using Sentinel-5P TROPOMI sensor, following a simplified version of [Lorente et al. 2019](http://www.nature.com/articles/s41598-019-56428-5) and [de Foy et al. 2014](http://acmg.seas.harvard.edu/publications/aqast/articles/defoy_et_al_2014_ae.pdf).
+In this assignment, we are trying to better understand NO2 emissions from Paris, using Sentinel-5P TROPOMI sensor, following a simplified version of [Lorente et al. 2019](http://www.nature.com/articles/s41598-019-56428-5) and [de Foy et al. 2014](http://dx.doi.org/10.1016/j.atmosenv.2014.08.051).
 
 We expect you to fill the following tasks / answer the following questions using Python.
 
